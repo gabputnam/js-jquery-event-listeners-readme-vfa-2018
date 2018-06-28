@@ -6,11 +6,14 @@ function getIt() {
   $("p").click(function(){
     alert("Hey!");
 });
-}
 function frameIt () {
   $('img').on('load', function()){
-    
+    add.tasty
+  });
   }
-}// call functions here
+}
+function pressIt// call functions here
 
 });
+}
+
