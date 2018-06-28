@@ -23,8 +23,15 @@ function submitIt() {
     alert('Your form is going to be submitted now.');
   });
   }
-}// call functions here
+$(document).ready(function() {
+  
+// call functions here
+getIt();
+frameIt();
+pressIt();
+
+submitIt();
 
 });
-}
+
 
